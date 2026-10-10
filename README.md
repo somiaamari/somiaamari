@@ -14,7 +14,7 @@ By day I write full-stack applications and train models. Between commits, I pick
 
 <br>
 
-<a href="https://amarisoumia.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-C4529A?style=for-the-badge&logo=googlechrome&logoColor=FBFAF0" alt="Portfolio" /></a>
+<a href="https://amarisoumia.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-E38DB0?style=for-the-badge&logo=netlify&logoColor=FBFAF0" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/amari-soumia-5a2521291"><img src="https://img.shields.io/badge/LinkedIn-3E7D67?style=for-the-badge&logo=linkedin&logoColor=FBFAF0" alt="LinkedIn" /></a>
 <a href="https://www.behance.net/somiaamari"><img src="https://img.shields.io/badge/Behance-8A4A6C?style=for-the-badge&logo=behance&logoColor=FBFAF0" alt="Behance" /></a>
 <a href="mailto:amarisoumia11405@gmail.com"><img src="https://img.shields.io/badge/Email-C4529A?style=for-the-badge&logo=gmail&logoColor=FBFAF0" alt="Email" /></a>
@@ -25,7 +25,7 @@ By day I write full-stack applications and train models. Between commits, I pick
 
 </div>
 
-
+```jsx
 import { useState } from "react";
 
 const soumia = {
@@ -58,23 +58,35 @@ export default function Soumia() {
     </main>
   );
 }
+```
 
-<div align="center"><img src="./assets/title-palette.svg" alt="My Palette & Tools" width="100%" />
+<br>
+
+<div align="center">
+
+<img src="./assets/title-palette.svg" alt="My Palette & Tools" width="100%" />
+
+<br>
+
 <img src="./assets/palette.svg" alt="Skills: React, Node.js, Python, JavaScript, HTML5, Tailwind CSS, Docker, Git, Figma, Photoshop, Illustrator, Data Science, Machine Learning" width="100%" />
 
-
+<br><br>
 
 <img src="./assets/title-connect.svg" alt="Let's Create Something Beautiful" width="100%" />
 
+<br><br>
 
-
-<a href="https://amarisoumia.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-C4529A?style=for-the-badge&logo=googlechrome&logoColor=FBFAF0" alt="Portfolio" /></a>
+<a href="https://amarisoumia.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-E38DB0?style=for-the-badge&logo=netlify&logoColor=FBFAF0" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/amari-soumia-5a2521291"><img src="https://img.shields.io/badge/LinkedIn-3E7D67?style=for-the-badge&logo=linkedin&logoColor=FBFAF0" alt="LinkedIn" /></a>
 <a href="https://www.behance.net/somiaamari"><img src="https://img.shields.io/badge/Behance-8A4A6C?style=for-the-badge&logo=behance&logoColor=FBFAF0" alt="Behance" /></a>
 <a href="mailto:amarisoumia11405@gmail.com"><img src="https://img.shields.io/badge/Email-C4529A?style=for-the-badge&logo=gmail&logoColor=FBFAF0" alt="Email" /></a>
 
-
-
+<br><br>
 
 <img src="./assets/footer.svg" alt="Code is my medium, and the screen is my canvas." width="100%" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=somiaamari.somiaamari&left_color=3E7D67&right_color=E38DB0&left_text=Visitors" alt="Visitor count" /></div>
+
+<br>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=somiaamari.somiaamari&left_color=3E7D67&right_color=E38DB0&left_text=Visitors" alt="Visitor count" />
+
+</div>
